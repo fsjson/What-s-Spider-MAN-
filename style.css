@@ -186,3 +186,23 @@ textarea {
   font-weight: bold;
   cursor: pointer;
 }
+
+.footers {
+  width: 100%;
+  height: 50px;
+  background-color: aqua;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.footers p {
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  text-align: center;
+}
